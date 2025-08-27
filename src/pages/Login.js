@@ -40,8 +40,8 @@ const LoginPage = ({ onLogin }) => {
         <Card>
           <div className="text-center mb-8">
             <Coffee className="w-16 h-16 text-blue-600 mx-auto mb-4" />
-            <h1 className="text-3xl font-bold text-gray-800">Bienvenido a CoffeeFlow</h1>
-            <p className="text-gray-500">Inicia sesión para gestionar tu café</p>
+            <h1 className="text-3xl font-bold text-gray-800">Bienvenido a Sistema de Control de Inventario</h1>
+            <p className="text-gray-500">Inicia sesión para gestionar tu inventario de café</p>
           </div>
           <form onSubmit={handleLogin}>
             <Input
