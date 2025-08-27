@@ -7,7 +7,7 @@ import { LogIn, Coffee } from 'lucide-react';
 
 const users = [
   { username: 'admin', password: 'Claudio1976+', role: 'administrador', fullName: 'Administrador Kaawa' },
-  { username: 'carlos', password: 'robusta25', role: 'tecnico', fullName: 'Carlos Hernandez Valencia' },
+  { username: 'isael ', password: 'robusta25', role: 'tecnico', fullName: 'Isael Lopez Dominguez' },
   { username: 'jonathan', password: 'arabica25', role: 'administrador', fullName: 'Jonathan Valencia Quintal' },
 ];
 
