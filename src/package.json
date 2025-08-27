@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.0",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "react-router-dom": "latest",
+    "recharts": "^2.12.7",
+    "@supabase/supabase-js": "^2.43.4"
+  },
+  "main": "/index.js",
+  "devDependencies": {}
+}
